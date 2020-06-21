@@ -8,6 +8,8 @@
 
     <color name="colorOnPrimary">#FFFFFF</color>
 
+    <color name="colorAccent">#75EF90</color>
+
     <!--Others colors -->
 
     <color name="color_red">#FF4D58</color>
